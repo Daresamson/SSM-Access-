@@ -103,6 +103,3 @@ At this point, the user can securely connect to the EC2 instance **without requi
 
 ---
 
-✅ Done!
-
-Do you want me to also save this as a `.md` file so you can open it directly in **VS Code or GitHub**?
